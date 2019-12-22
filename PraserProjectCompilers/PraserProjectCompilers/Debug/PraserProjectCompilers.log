@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\mina rafla\documents\visual studio 2017\projects\praserprojectcompilers\praserprojectcompilers\source.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\mina rafla\documents\visual studio 2017\projects\praserprojectcompilers\praserprojectcompilers\source.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\mina rafla\documents\visual studio 2017\projects\praserprojectcompilers\praserprojectcompilers\source.cpp(427): warning C4018: '<': signed/unsigned mismatch
+  PraserProjectCompilers.vcxproj -> C:\Users\Mina Rafla\Documents\Visual Studio 2017\Projects\PraserProjectCompilers\Debug\PraserProjectCompilers.exe
+  PraserProjectCompilers.vcxproj -> C:\Users\Mina Rafla\Documents\Visual Studio 2017\Projects\PraserProjectCompilers\Debug\PraserProjectCompilers.pdb (Partial PDB)

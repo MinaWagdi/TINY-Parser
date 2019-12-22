@@ -1,0 +1,8 @@
+read statement found
+assign statement found
+assign statement found
+assign statement found
+repeat statement found
+write statement found
+if statement found
+Program found

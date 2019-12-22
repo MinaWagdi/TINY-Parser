@@ -1,0 +1,32 @@
+read : reserved
+x : indentifier
+; : Special Symbol
+if : reserved
+0 : number
+< : Special Symbol
+x : indentifier
+then : reserved
+fact : indentifier
+:= : Special Symbol
+1 : number
+; : Special Symbol
+repeat : reserved
+facti : indentifier
+:= : Special Symbol
+fact : indentifier
+* : Special Symbol
+x : indentifier
+
+x : indentifier
+:= : Special Symbol
+x : indentifier
+- : Special Symbol
+1 : number
+until : reserved
+x : indentifier
+= : Special Symbol
+0 : number
+; : Special Symbol
+write : reserved
+fact : indentifier
+end : reserved word
